@@ -1,6 +1,14 @@
 {
-	"name": "STANKY",
+	"name": "Stanky",
 	"symbol": "STANKY",
-	"description": "Stanky was cursed with diamond hands, and can't work a real job.  By holding STANKY you help improve Stanky's life-and maybe yours too! @LetsGetStanky tiktok youtube X Insta u/letsgetstanky reddit"
-	"image": "https://raw.githubusercontent.com/letsgetstanky/STANKY/refs/heads/main/STANKYSTANK.jpg"
+	"description": "Stanky was cursed with diamond hands, and can't work a real job.  By holding STANKY you help improve Stanky's life-and maybe yours too! @LetsGetStanky tiktok youtube X Insta u/letsgetstanky reddit",
+	"image": "https://raw.githubusercontent.com/letsgetstanky/STANKY/refs/heads/main/STANKYSTANK.png",
+	"seller_fee_basis_points":0,
+	"creators": [
+		{
+			"address": "DC8vyXACgnCZgTsJ1LDWc1JX3oRLgKgSnWjHpbbqkWfp",
+			"share": 100
+		}
+	]
+	
 }
