@@ -3,6 +3,13 @@
 	"symbol": "STANKY",
 	"description": "By holding STANKY you help improve Stanky's life-and maybe yours too! @LetsGetStanky tiktok youtube X Insta u/letsgetstanky reddit",
 	"image": "https://raw.githubusercontent.com/letsgetstanky/STANKY/refs/heads/main/STANKYSTANK.png",
+	"extensions": {
+		"twitter": "https://x.com/letsgetstanky",
+		"instagram": "https://instagram.com/letsgetstanky",
+		"youtube":"https://youtube.com/@letsgetstanky",
+		"tiktok": "https://tiktok.com/@letsgetstanky",
+		"reddit": "https://reddit.com/user/letsgetstanky"
+	}
 	"seller_fee_basis_points":0,
 	"creators": [
 		{
