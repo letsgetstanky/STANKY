@@ -2,7 +2,7 @@
   "name": "Stanky",
   "symbol": "STANKY",
   "description": "Stanky is the Dankiest Panda on Solana - Buying STANKY helps improve Stanky's life and maybe yours too! @LetsGetStanky twitter,tiktok,yt,inst,reddit",
-  "image": "https://raw.githubusercontent.com/letsgetstanky/STANKY/main/STANKYSTANK.png",
+  "image": "https://raw.githubusercontent.com/letsgetstanky/STANKY/refs/head/main/STANKYSTANK.png",
   "external_url": "x.com/letsgetstanky",
   "attributes": [
     { "trait_type": "Species", "value": "Panda" },
