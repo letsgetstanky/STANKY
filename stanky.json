@@ -1,12 +1,21 @@
 {
   "name": "Stanky",
   "symbol": "STANKY",
-  "description": "@LetsGetStanky twitter,tiktok,yt,inst,reddit",
+  "description": "The higher Stanky's price, the better Stanky's life gets!  @LetsGetStanky twitter,tiktok,youtube,instagram,reddit",
   "image": "https://raw.githubusercontent.com/letsgetstanky/STANKY/main/STANKYSTANK.png",
-    "creators": [
-      { 
-        "address": "DC8vyXACgnCZgTsJ1LDWc1JX3oRLgKgSnWjHpbbqkWfp", 
-        "share": 100 
+  "properties": {
+    "files": [
+      {
+      "uri": "https://raw.githubusercontent.com/letsgetstanky/STANKY/main/STANKYSTANK.png",
+      "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": " [
+      {
+      "address": "DC8vyXACgnCZgTsJ1LDWc1JX3oRLgKgSnWjHpbbqkWfp",
+      "share": 100
       }
     ]
+  }
 }
