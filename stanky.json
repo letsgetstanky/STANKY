@@ -3,6 +3,20 @@
   "symbol": "STANKY",
   "description": "The higher Stanky's price, the better Stanky's life gets!  @LetsGetStanky twitter,tiktok,youtube,instagram,reddit",
   "image": "https://raw.githubusercontent.com/letsgetstanky/STANKY/main/STANKYSTANK.png",
+  "attributes": [
+    {
+      "trait_type": "Skill Level",
+      "value": "STANKY"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Solana Token"
+    },
+    {
+      "trait_type": "Mintable",
+      "value": "No"
+    }
+  ],
   "properties": {
     "files": [
       {
