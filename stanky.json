@@ -1,8 +1,8 @@
 {
   "name": "Stanky",
   "symbol": "STANKY",
-  "description": "The higher Stanky's price, the better Stanky's life gets, and maybe yours too! @LetsGetStanky twitter,tiktok,youtube,instagram,reddit",
-  "image": "https://raw.githubusercontent.com/letsgetstanky/STANKY/main/STANKYSTANK.png",
+  "description": "Stanky is CLOSED, it was my first token and I learned a lot, will be making a new community token without all the mistakes from this time around",
+  "image": "",
   "attributes": [
     {
       "trait_type": "Vibe",
@@ -20,7 +20,7 @@
   "properties": {
     "files": [
       {
-      "uri": "https://raw.githubusercontent.com/letsgetstanky/STANKY/main/STANKYSTANK.png",
+      "uri": "",
       "type": "image/png"
       }
     ],
